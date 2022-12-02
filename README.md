@@ -1,5 +1,5 @@
 ### Hi  👋
-I'm Jakub and I'm studying Computer Science at AGH :green_heart::black_heart::heart:
+My name is Jakub and I'm studying Computer Science at AGH :green_heart::black_heart::heart:
 
 #### Github Page
 
